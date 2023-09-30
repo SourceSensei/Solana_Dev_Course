@@ -1,0 +1,22 @@
+{
+  "name": "nft_collection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@digitak/esrun": "^3.2.24",
+    "@solana-developers/node-helpers": "^1.0.4",
+    "@solana/spl-token": "^0.3.8",
+    "@solana/spl-token-swap": "^0.4.0",
+    "@solana/web3.js": "^1.78.5",
+    "borsh": "^1.0.0",
+    "dotenv": "^16.3.1",
+    "typescript": "^5.2.2"
+  }
+}
