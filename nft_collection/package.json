@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@digitak/esrun": "^3.2.24",
+    "@metaplex-foundation/js": "^0.19.5",
     "@solana-developers/node-helpers": "^1.0.4",
     "@solana/spl-token": "^0.3.8",
     "@solana/spl-token-swap": "^0.4.0",
